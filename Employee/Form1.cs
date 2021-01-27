@@ -137,7 +137,7 @@ namespace Employee
             }
             catch (ArgumentOutOfRangeException)
             {
-                MessageBox.Show("Selecione um nome na lista");
+                MessageBox.Show("Selecione um nome na lista.");
             }
 
         }
